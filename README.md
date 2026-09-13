@@ -1,4 +1,4 @@
-#Customer Shopping Behavior Analysis
+Customer Shopping Behavior Analysis
 
 An end-to-end data analytics project that takes raw retail transaction data through cleaning and feature engineering in Python, storage in PostgreSQL, and visualization in Power BI.
 
