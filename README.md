@@ -91,7 +91,7 @@ python customer_shopping_etl.py
 
 ---
 
-*Author: [Your Name] — feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).*
+*Author: [Dhruv Pandey] — feel free to connect on [[LinkedIn](https://www.linkedin.com/in/dhruv-pandey-656230235/)]
 
 Publish the Power BI report to the Power BI Service and embed a link/screenshot here
 Add unit tests for the cleaning functions in customer_shopping_etl.py
